@@ -1,20 +1,14 @@
-# Actividad 2 - Punto 5: Cuenta Bancaria con Interés Mensual
+# Actividad 2 - Punto 1:  clase Persona
 
 ## Descripción
 
 Este ejercicio corresponde al **punto 1 de la Actividad 2** de la materia **Programación Orientada a Objetos (POO)**.
 
-El objetivo principal era **modificar la clase `CuentaBancaria`** para incluir:
+El objetivo principal era **modelar la clase `Persona`** para incluir:
 
-- Un nuevo atributo: `float interesMensual;`
-- Un nuevo método: `public void aplicarInteres()`
+- un metodo para imprimir los atributos en pantalla: `void imprimir();`
+- Un método main que cree dos personas y mostrar sus valores en pantalla 
 
-## Cambios realizados
+## UML
+![Diagrama de clases](/actividad_2/punto_1/POO_A_2-Ejercicio%201.drawio.png)
 
-1. Se agregó el atributo `interesMensual` que representa el porcentaje de interés que se aplicará mensualmente sobre el saldo actual.
-2. Se implementó el método `aplicarInteres()`, el cual calcula el interés correspondiente y lo suma al saldo de la cuenta.
-3. Se actualizó el constructor para aceptar `interesMensual` como parámetro de entrada.
-
-## Ejecución
-
-El archivo `App.java` contiene un ejemplo de uso de la clase.

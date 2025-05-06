@@ -1,20 +1,21 @@
-# Actividad 2 - Punto 5: Cuenta Bancaria con Interés Mensual
+# Actividad 2 - Punto 2: Clase planeta
 
 ## Descripción
 
-Este ejercicio corresponde al **punto 1 de la Actividad 2** de la materia **Programación Orientada a Objetos (POO)**.
+Este ejercicio corresponde al **punto 2 de la Actividad 2** de la materia **Programación Orientada a Objetos (POO)**.
 
-El objetivo principal era **modificar la clase `CuentaBancaria`** para incluir:
+El objetivo principal era **modelar el concepto de un `Planeta`** para incluir:
 
-- Un nuevo atributo: `float interesMensual;`
-- Un nuevo método: `public void aplicarInteres()`
+- los atributos: `nombre, satelites, masa, diametro, volumen, distancia al sol, observable`
+- Un constructor que incluya los valores de los atributos: `Planeta (String nombre, int satelites, int diametro, int distanciaSol, double masa, double volumen, boolean observable, tipoPlaneta tipo)`
+- un metodo para imprimir atributos en pantalla: `void imprimir();`
+- un metodo para calcular la densidad: `double Densidad();`
+- un metodo para determinar si un planeta se considera exterior: `boolean PlanetaExterior();`
+- Un método main que cree dos planetas y muestre sus atributos en pantalla
+## UML
+![Diagrama de clases](/actividad_2/punto_2/POO_A_2-Ejercicio%202.PNG)
 
-## Cambios realizados
 
-1. Se agregó el atributo `interesMensual` que representa el porcentaje de interés que se aplicará mensualmente sobre el saldo actual.
-2. Se implementó el método `aplicarInteres()`, el cual calcula el interés correspondiente y lo suma al saldo de la cuenta.
-3. Se actualizó el constructor para aceptar `interesMensual` como parámetro de entrada.
 
-## Ejecución
 
-El archivo `App.java` contiene un ejemplo de uso de la clase.
+
