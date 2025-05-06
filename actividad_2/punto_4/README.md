@@ -29,3 +29,6 @@ Este ejercicio permite reforzar los siguientes conceptos clave:
 El archivo `Ejercicio4.java` contiene la clase `main`, donde se crean objetos de cada figura geométrica: `Círculo`, `Rectángulo`, `Cuadrado` y `TriánguloRectángulo`. Para cada objeto, se ejecutan los métodos correspondientes para calcular e imprimir en consola su **área** y **perímetro**. En el caso del triángulo rectángulo, además, se calcula la **hipotenusa** y se determina qué tipo de triángulo es.
 
 
+## 🧩 Diagrama UML
+
+![Diagrama UML](POO_A_2-Ejercicio%204.png)

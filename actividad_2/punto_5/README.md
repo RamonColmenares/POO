@@ -18,3 +18,7 @@ El objetivo principal era **modificar la clase `CuentaBancaria`** para incluir:
 ## Ejecución
 
 El archivo `App.java` contiene un ejemplo de uso de la clase.
+
+## 🧩 Diagrama UML
+
+![Diagrama UML](POO_A_2-Ejercicio%205.png)

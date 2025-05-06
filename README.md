@@ -12,6 +12,7 @@ Se incluyen ejemplos prácticos del uso de clases, objetos, encapsulamiento, her
 
 Cada actividad está organizada en su propia carpeta:
 
+```
 POO/
 ├── actividad_1/
 │   └── …
@@ -20,6 +21,7 @@ POO/
 ├── actividad_3/
 │   └── …
 └── …
+```
 
 Cada punto contiene su propio código fuente bajo una estructura estándar `src/main/java/`, junto con un archivo `README.md` explicativo.
 

@@ -20,3 +20,8 @@ Los métodos set se definen con el siguiente formato:
 ## Ejecución
 
 El archivo `Ejercicio3.java` contiene un ejemplo de uso de la clase.
+
+
+## 🧩 Diagrama UML
+
+![Diagrama UML](POO_A_2-Ejercicio%203.png)
