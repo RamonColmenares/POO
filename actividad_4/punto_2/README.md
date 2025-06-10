@@ -4,6 +4,18 @@
 
 Esta aplicación de geometría permite calcular el volumen y superficie de diferentes figuras geométricas a través de una interfaz gráfica desarrollada en Java Swing.
 
+## Diagramas del Sistema
+
+### Diagrama UML
+![UML Diagram](GeometriaApp/diagrams/UML.png)
+
+*Diagrama de clases que muestra la estructura y relaciones entre las diferentes clases del sistema.*
+
+### Diagrama de Casos de Uso
+![Use Case Diagram](GeometriaApp/diagrams/UseCase.png)
+
+*Diagrama que ilustra las funcionalidades disponibles para el usuario y las interacciones con el sistema.*
+
 ## Mejoras Implementadas
 
 ### 1. Nuevas Figuras Geométricas
