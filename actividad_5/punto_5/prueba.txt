@@ -1,0 +1,5 @@
+Hola mundo desde el archivo de prueba
+Esta es una línea con texto mixto: MAYÚSCULAS y minúsculas
+¡El programa de lectura de archivos funciona correctamente!
+Línea número 4 con caracteres especiales: áéíóú ñÑ
+Final del archivo de prueba - Actividad 5 Punto 5
