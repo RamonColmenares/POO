@@ -183,3 +183,7 @@ ID,Nombre,Apellido,Email,Edad,Carrera,Promedio
 E001,Juan,Pérez,juan.perez@email.com,20,Ingeniería,4.5
 E002,María,García,maria.garcia@email.com,19,Medicina,4.8
 ```
+
+## UML
+
+![Diagrama de clases UML](UML.png)
